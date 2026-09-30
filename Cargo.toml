@@ -1,9 +1,11 @@
 [package]
 name = "audio-mixer"
 version = "0.1.0"
-description = "A Rust library for Audio Mixer"
+description = "Audio Mixer — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/audio-mixer"
+repository = "https://github.com/SuperInstance/audio-mixer"
 edition = "2021"
+
+keywords = ["audio-mixer"]
 
 [dependencies]
